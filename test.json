@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "item": {
+    "direktor": [
+      {
+        "displayName": "Lucas_AS",
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/341959675773845516/a4370f99016f800a0fe4de8e276ef0fa.webp",
+        "id": "341959675773845516"
+      },
+      {
+        "displayName": "HiJnDK",
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/356446988142903316/764d4518c3439cb69c0e84cbf916eb8e84cbf916eb8e.webp",
+        "id": "356446988142903316"
+      }
+    ],
+    "inspektor": [
+      {
+        "displayName": "Sykopingvin",
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/543465653374550027/9948e722e51209648d5903cfc1e57262.webp",
+        "id": "543465653374550027"
+      }
+    ],
+    "viceinspektor": [],
+    "officer": [
+      {
+        "displayName": "Slyqnn",
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/339868867914498058/dedc44fa1574de16a63ef8003a2abc72.webp",
+        "id": "339868867914498058"
+      },
+      {
+        "displayName": "Gyymmr",
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/443487288362795019/f8cd2d58700526a30f3a85ef7b386620.webp",
+        "id": "443487288362795019"
+      }
+    ],
+    "avagt": [
+      {
+        "displayName": "GirlBoost",
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/750695934842784345/61a7b6aadc6299c13cf0303a6dc116db.webp",
+        "id": "750695934842784345"
+      }
+    ],
+    "cvagt": [],
+    "pvagt": []
+  }
+}
